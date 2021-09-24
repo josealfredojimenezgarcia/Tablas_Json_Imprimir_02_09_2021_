@@ -1,0 +1,142 @@
+{
+    "Iva": 19,
+    "Informacion":{
+        "Tipo-De-Factura": "Sitema de Facturación Colfiltes"
+    },
+    "Header":{
+        "Logo":"./img/logo.png",
+        "Empresa": {
+            "Nombre": "Sistema de facturación COLFILTES",
+            "NIT": "5454212121-9",
+            "Direccion": "Cra 55 # 71a -09 ",
+            "Departamento":"Colombia, Santander-Bucaramanga"
+        },
+        "Contactos":{
+            "Sito Web":[
+                {
+                    "Nombre": " Colfiltes",
+                    "Valor": "www.colfiltes.co"
+                }
+            ],
+            "Correo Electronico":[
+                {
+                    "Nombre":"info@obedalvarado.pw",
+                    "Valor": "mailto:info@obedalvarado.pw"
+                }
+            ],
+            "Telefono":[
+                {
+                    "Nombre": "+607 6221872",
+                    "Valor": "tel:+6076221872"
+                }
+            ],
+            "Celular":[
+                {
+                    "Nombre": "+57 3114288938",
+                    "Valor": "tel:3114288938"
+                }
+            ],
+            "Redes-Sociales":[
+                {
+                    "Nombre": "Twitter",
+                    "Valor": "@alvarado_obed"
+                }
+            ]
+        },
+        "Comentario":"// Datos enviados por el forulario",
+        "Token-Verificacion":{
+            "Nombre-Banco":"Bancolombia",
+            "Producto":"Nequi",
+            "Nombre-Titular":"JOSE ALFREDO JIMENEZ GARCÍA",
+            "Tonken-Validacion":"gbh-5465fd-5449sdf-sdfsdf",
+            "Token-Aprobacion":"tyh-sdfss-sefse-sefse",
+            "Cuenta-Bancaria":"6324-8426-8416-5976"
+        }
+    },
+    "Comentario":"// Datos enviados por el forulario",
+    "Section-Autorizacion":{
+        "Facturado":{
+            "Fecha-Factura":"02-09-2021",
+            "Numero-Factura":"BG-100-2845-5",
+            "Fecha-Vencimiento":"07-09-2021"
+        },
+        "Responsable": {
+            "Nombre":"Fundación Carlos Ardila Lulle",
+            "Empresa":"POSTOBON",
+            "Dirrecion-Completa":"transv 93 # 78 - 25",
+            "Contactos":{
+                "Telefono":[
+                    {
+                        "Indicativo": "+607",
+                        "Numero": 6300159
+                    }
+                ],
+                "Celular":[
+                    {
+                        "Indicativo": "+57",
+                        "Numero": 3041782344
+                    }
+                ]
+            }
+        },
+        "Autorizacion":{
+            "Nombre":"Jose Alfredo Jimenez García",
+            "Empresa":"COLFILTES",
+            "Dirrecion-Completa":"CRA 20 # 50 - 67",
+            "Contactos":{
+                "Telefono":[
+                    {
+                        "Indicativo": "+607",
+                        "Numero": 6874125
+                    }
+                ],
+                "Celular":[
+                    {
+                        "Indicativo": "+57",
+                        "Numero": 3017854211
+                    }
+                ]
+            }
+        }
+
+    },
+    "Comentario2":"// Datos enviados por el forulario",
+    "Section-Detalle":{
+        "Proveedor":[
+            {
+                "N-Vendedor":"RVA",
+                "Nombre":"Jaime Andres Lopez Chacon",
+                "Orden-Compra":"#PO-2020",
+                "Términos-y-condiciones":"Pago al contado"
+            },
+            {
+                "N-Vendedor":"KUN",
+                "Nombre":"Luis Felipe Melo Carrillo",
+                "Orden-Compra":"#PO-2021",
+                "Términos-y-condiciones":"Pago Estricto contado efectivo"
+            }
+        ],
+        "Compra":[
+            {
+                "N-Vendedor":"DHL",
+                "Codigo": 123,
+                "Descripcion":"Servicio Técnico",
+                "Cantidad": 2,
+                "Precio": 2000000,
+                "Iva": 16
+            },
+            {
+                "N-Vendedor":"FUN",
+                "Codigo": 456,
+                "Descripcion":"Camisa",
+                "Cantidad": 2,
+                "Precio": 20000,
+                "Iva": 19
+            }
+        ]
+    },
+    "Footer": {
+        "Mensaje":"Actividad liberal, no incluye impuestos sobre las ventas"
+    }
+
+}
